@@ -110,4 +110,6 @@ Paramètres typiques : `episodes=20000`, `alpha=0.1`, `gamma=0.99`, `epsilon: 1.
 (Interprétation rapide : les méthodes TD tabulaires convergent bien sur Taxi-v3, tandis que Monte Carlo “pur” peut galérer sans réglages/techniques supplémentaires.)
 
 ---
-
+## 4) Installation
+```bash
+pip install gymnasium numpy matplotlib
